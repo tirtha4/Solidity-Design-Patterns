@@ -1,9 +1,12 @@
 
 # Solidity Design Patterns
 ---
+
 ## Content:
 
 ### 1. Authorization Patterns
+**ARTICLE**: https://hackernoon.com/solidity-tutorial-understanding-design-patterns-part-1
+
     - AccessRestriction.sol
     - SecretRegistry.sol
 
